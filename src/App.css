@@ -1,4 +1,3 @@
-/* Estilos generales */
 .app {
   text-align: center;
   padding: 20px;
@@ -16,7 +15,7 @@ input {
   margin-bottom: 20px;
 }
 
-/* Grid de cuadros de colores */
+
 .boxes-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -35,7 +34,7 @@ input {
   transition: background 0.3s;
 }
 
-/* Colores dinámicos */
+
 .red { background: red; }
 .green { background: green; }
 .pink { background: pink; }
